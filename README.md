@@ -1,10 +1,9 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)
 <h1 align="center">Hi 👋, I'm Utsav Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavsingh29&label=Profile%20views&color=0e75b6&style=flat" alt="utsavsingh29" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mypc545493" target="blank"><img src="https://img.shields.io/twitter/follow/mypc545493?logo=twitter&style=for-the-badge" alt="mypc545493" /></a> </p>
 
 - 🔭 I’m currently working on **Web Project**
 

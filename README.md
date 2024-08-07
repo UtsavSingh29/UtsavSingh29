@@ -1,4 +1,3 @@
-![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)
 <h1 align="center">Hi 👋, I'm Utsav Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">

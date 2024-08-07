@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **codingusage2023@gmail.com**
 
-- ⚡ Fun fact **I know more than I speak**
+- ⚡ Fun fact **I Listen More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

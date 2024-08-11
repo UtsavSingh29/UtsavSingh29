@@ -33,9 +33,8 @@ In my third year, my passion for software Development and coding continues to gr
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
 </div>
 <br>
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtsavSingh29&show_icons=true&locale=en&layout=donut&theme=radical" alt="Top Languages" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" width="360" right="2rem"/>
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;margin-right=20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" width="360" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavSingh29&theme=algolia" alt="GitHub Streak" width="380" /> 
    
 </div> 

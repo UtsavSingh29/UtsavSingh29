@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavsingh29&" alt="utsavsingh29" /></p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UtsavSingh29" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavsingh29&label=Profile%20views&color=0e75b6&style=flat" alt="utsavsingh29" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Utsav+Singh.+;I+am+a+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="350px"  src="ocatcatluffy.svg" />
 

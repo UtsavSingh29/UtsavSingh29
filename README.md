@@ -55,9 +55,8 @@ In my third year, my passion for software Development and coding continues to gr
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs" />
-    <img src="https://skillicons.dev/icons?i=postman,python,javascript,firebase,mongodb,c,cpp,bash,flask,scikitlearn"/>
-
+    <img src="https://skillicons.dev/icons?i=react,vscode,github,tailwind,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,cpp,scikitlearn"/>
 </div>
 <div>
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
@@ -70,4 +69,3 @@ In my third year, my passion for software Development and coding continues to gr
    
 </div> 
 </div>
-[↑ Back to Top ↑](#top)

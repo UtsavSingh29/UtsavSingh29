@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsavsingh29&" alt="utsavsingh29" /></p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=priyamaggarwal18.priyamaggarwal18" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UtsavSingh29" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Utsav+Singh.+;I+am+a+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="350px"  src="ocatcatluffy.svg" />
 
@@ -64,12 +64,10 @@ In my third year, my passion for software Development and coding continues to gr
 </div>
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamaggarwal18&show_icons=true&locale=en&layout=donut&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamaggarwal18&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamaggarwal18&theme=algolia" alt="GitHub Streak" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtsavSingh29&show_icons=true&locale=en&layout=donut&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavSingh29&theme=algolia" alt="GitHub Streak" /> 
    
-</div> -->
+</div> 
 </div>
-
-
 [↑ Back to Top ↑](#top)

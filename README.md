@@ -8,8 +8,7 @@ In my third year, my passion for software Development and coding continues to gr
 
 This dynamic journey turns challenges into opportunities for learning and growth in the ever-evolving tech landscape.
 ### - Contact : **codingusage2023@gmail.com**
-### - Fun fact: **You Are What you Do, 
-Not What You Think .**
+### - Fun fact: **You Are What you Do, Not What You Think .**
  <br><br><br>
 
 <h2 >🤝 Connect with me 🤝</h2>

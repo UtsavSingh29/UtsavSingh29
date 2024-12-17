@@ -30,5 +30,5 @@ This dynamic journey turns challenges into opportunities for learning and growth
 </div>
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; padding:20px;justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox position=absolute left=10rem" alt="GitHub Stats" width="360"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox " alt="GitHub Stats" width="360"/>
 </div> </div>

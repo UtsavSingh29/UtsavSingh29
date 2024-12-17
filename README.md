@@ -23,7 +23,7 @@ This dynamic journey turns challenges into opportunities for learning and growth
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,github,tailwind,git,nodejs" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,cpp,java,iot"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,cpp,java,Iot"/>
 </div>
 <div>
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">

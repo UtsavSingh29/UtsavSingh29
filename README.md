@@ -22,8 +22,8 @@ This dynamic journey turns challenges into opportunities for learning and growth
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vscode,github,tailwind,git,nodejs" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,cpp,java"/>
+    <img src="https://skillicons.dev/icons?i=react,github,tailwind,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,cpp,java,iot"/>
 </div>
 <div>
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">

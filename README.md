@@ -31,5 +31,4 @@ This dynamic journey turns challenges into opportunities for learning and growth
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; padding:20px;justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" width="360"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavSingh29&theme=algolia" alt="GitHub Streak" width="380"/> 
 </div> </div>

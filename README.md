@@ -16,7 +16,7 @@ This dynamic journey turns challenges into opportunities for learning and growth
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://x.com/MyPc545493" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=twitter&logoColor=white left=2rem" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=twitter&logoColor=white position=absolute left=2rem" alt="Twitter">
 </a>
  <br><br>
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -30,5 +30,5 @@ This dynamic journey turns challenges into opportunities for learning and growth
 </div>
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; padding:20px;justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" width="360"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UtsavSingh29&show_icons=true&locale=en&theme=gruvbox position=absolute left=10rem" alt="GitHub Stats" width="360"/>
 </div> </div>

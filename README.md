@@ -7,7 +7,7 @@
 In my third year, my passion for software Development and coding continues to grow. I'm currently focused on learning new technologies, which helps build fundamental logic building towards coding. 
 
 This dynamic journey turns challenges into opportunities for learning and growth in the ever-evolving tech landscape.
-### - Contact : **codingusage2023@gmail.com**
+### - Contact : **mypcusage2022@gmail.com**
  <br><br><br>
 
 <h2 >🤝 Connect with me 🤝</h2>
